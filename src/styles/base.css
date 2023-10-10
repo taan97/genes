@@ -1,0 +1,94 @@
+:root {
+  --root-white-1: #fff;
+  --root-white-2: #eff1f5;
+
+  --root-black-opacity-1: rgba(0, 0, 0, 0.8);
+  --root-black-opacity-2: rgba(0, 0, 0, 0.5);
+  --root-black-opacity-3: rgba(144, 144, 144, 0.5);
+
+  --root-black-1: #000;
+  --root-black-2: #15191c;
+
+  --root-orange-1: #f37021;
+  --root-orange-2: #f3ac21;
+  --root-orange-3: rgba(243, 112, 33, 0.65);
+  --root-orange-4: #ff8a00;
+
+  --root-yellow-1: #fbf3ac;
+
+  --root-red-1: #a70000;
+  --root-red-2: #ff0000;
+
+  --root-pink-1: #e6c6db;
+
+  --root-green-1: #01b184;
+  --root-green-2: #00ff2d;
+  --root-green-3: rgba(0, 209, 37, 0.9);
+
+  --root-grey-1: #505f84;
+  --root-grey-2: #9ea7bb;
+  --root-grey-3: #626262;
+  --root-grey-4: #7d8790;
+  --root-grey-5: #31343b;
+
+  --root-opacity-1: rgba(255, 255, 255, 0.39);
+
+  --root-size-1: 10px;
+  --root-size-2: 12px;
+  --root-size-3: 14px;
+  --root-size-4: 16px;
+  --root-size-5: 18px;
+  --root-size-6: 20px;
+  --root-size-7: 22px;
+  --root-size-8: 24px;
+  --root-size-9: 32px;
+
+  --root-max-width: 640px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+  touch-action: manipulation;
+}
+
+html {
+  font-size: 16px;
+  background-color: var(--root-black-1);
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-size: 87.5%;
+  line-height: 1.333;
+  max-width: var(--root-max-width);
+  height: fit-content;
+  margin-inline: auto;
+  color: var(--root-black-2);
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+#app {
+  min-height: var(--window-inner-height);
+  display: flex;
+  flex-direction: column;
+  background: url('../assets/images/background.jpeg') no-repeat center/cover
+    fixed;
+}
+
+.custom .van-action-sheet__content {
+  overflow: hidden;
+}
+
+.van-toast__text {
+  word-break: break-word;
+}

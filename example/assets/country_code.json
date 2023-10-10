@@ -1,0 +1,1682 @@
+[
+  {
+    "name": "\u963f\u5bcc\u6c57",
+    "en_name": "Afghanistan",
+    "native_name": "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+    "phone_code": "93",
+    "alpha_2": "af"
+  },
+  {
+    "name": "\u5965\u5170\u7fa4\u5c9b",
+    "en_name": "\u00c5land Islands",
+    "native_name": "\u00c5land",
+    "phone_code": "358",
+    "alpha_2": "ax"
+  },
+  {
+    "name": "\u963f\u5c14\u5df4\u5c3c\u4e9a",
+    "en_name": "Albania",
+    "native_name": "Shqip\u00ebria",
+    "phone_code": "355",
+    "alpha_2": "al"
+  },
+  {
+    "name": "\u963f\u5c14\u53ca\u5229\u4e9a",
+    "en_name": "Algeria",
+    "native_name": "\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "phone_code": "213",
+    "alpha_2": "dz"
+  },
+  {
+    "name": "\u7f8e\u5c5e\u8428\u6469\u4e9a",
+    "en_name": "American Samoa",
+    "native_name": "American Samoa",
+    "phone_code": "1684",
+    "alpha_2": "as"
+  },
+  {
+    "name": "\u5b89\u9053\u5c14",
+    "en_name": "Andorra",
+    "native_name": "Andorra",
+    "phone_code": "376",
+    "alpha_2": "ad"
+  },
+  {
+    "name": "\u5b89\u54e5\u62c9",
+    "en_name": "Angola",
+    "native_name": "Angola",
+    "phone_code": "244",
+    "alpha_2": "ao"
+  },
+  {
+    "name": "\u5b89\u572d\u62c9",
+    "en_name": "Anguilla",
+    "native_name": "Anguilla",
+    "phone_code": "1264",
+    "alpha_2": "ai"
+  },
+  {
+    "name": "\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u8fbe",
+    "en_name": "Antigua and Barbuda",
+    "native_name": "Antigua and Barbuda",
+    "phone_code": "1268",
+    "alpha_2": "ag"
+  },
+  {
+    "name": "\u963f\u6839\u5ef7",
+    "en_name": "Argentina",
+    "native_name": "Argentina",
+    "phone_code": "54",
+    "alpha_2": "ar"
+  },
+  {
+    "name": "\u4e9a\u7f8e\u5c3c\u4e9a",
+    "en_name": "Armenia",
+    "native_name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576",
+    "phone_code": "374",
+    "alpha_2": "am"
+  },
+  {
+    "name": "\u963f\u9c81\u5df4",
+    "en_name": "Aruba",
+    "native_name": "Aruba",
+    "phone_code": "297",
+    "alpha_2": "aw"
+  },
+  {
+    "name": "\u6fb3\u5927\u5229\u4e9a",
+    "en_name": "Australia",
+    "native_name": "Australia",
+    "phone_code": "61",
+    "alpha_2": "au"
+  },
+  {
+    "name": "\u5965\u5730\u5229",
+    "en_name": "Austria",
+    "native_name": "\u00d6sterreich",
+    "phone_code": "43",
+    "alpha_2": "at"
+  },
+  {
+    "name": "\u963f\u585e\u62dc\u7586",
+    "en_name": "Azerbaijan",
+    "native_name": "Az\u0259rbaycan",
+    "phone_code": "994",
+    "alpha_2": "az"
+  },
+  {
+    "name": "\u5df4\u54c8\u9a6c",
+    "en_name": "The Bahamas",
+    "native_name": "Bahamas",
+    "phone_code": "1242",
+    "alpha_2": "bs"
+  },
+  {
+    "name": "\u5df4\u6797",
+    "en_name": "Bahrain",
+    "native_name": "\u200f\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+    "phone_code": "973",
+    "alpha_2": "bh"
+  },
+  {
+    "name": "\u5b5f\u52a0\u62c9\u56fd",
+    "en_name": "Bangladesh",
+    "native_name": "Bangladesh",
+    "phone_code": "880",
+    "alpha_2": "bd"
+  },
+  {
+    "name": "\u5df4\u5df4\u591a\u65af",
+    "en_name": "Barbados",
+    "native_name": "Barbados",
+    "phone_code": "1246",
+    "alpha_2": "bb"
+  },
+  {
+    "name": "\u767d\u4fc4\u7f57\u65af",
+    "en_name": "Belarus",
+    "native_name": "\u0411\u0435\u043b\u0430\u0440\u0443\u0301\u0441\u044c",
+    "phone_code": "375",
+    "alpha_2": "by"
+  },
+  {
+    "name": "\u6bd4\u5229\u65f6",
+    "en_name": "Belgium",
+    "native_name": "Belgi\u00eb",
+    "phone_code": "32",
+    "alpha_2": "be"
+  },
+  {
+    "name": "\u4f2f\u5229\u5179",
+    "en_name": "Belize",
+    "native_name": "Belize",
+    "phone_code": "501",
+    "alpha_2": "bz"
+  },
+  {
+    "name": "\u8d1d\u5b81",
+    "en_name": "Benin",
+    "native_name": "B\u00e9nin",
+    "phone_code": "229",
+    "alpha_2": "bj"
+  },
+  {
+    "name": "\u767e\u6155\u5927",
+    "en_name": "Bermuda",
+    "native_name": "Bermuda",
+    "phone_code": "1441",
+    "alpha_2": "bm"
+  },
+  {
+    "name": "\u4e0d\u4e39",
+    "en_name": "Bhutan",
+    "native_name": "\u02bcbrug-yul",
+    "phone_code": "975",
+    "alpha_2": "bt"
+  },
+  {
+    "name": "\u73bb\u5229\u7ef4\u4e9a",
+    "en_name": "Bolivia",
+    "native_name": "Bolivia",
+    "phone_code": "591",
+    "alpha_2": "bo"
+  },
+  {
+    "name": "\u535a\u5185\u5c14\u5c9b",
+    "en_name": "Bonaire",
+    "native_name": "Bonaire",
+    "phone_code": "5997",
+    "alpha_2": "bq"
+  },
+  {
+    "name": "\u535a\u8328\u74e6\u7eb3",
+    "en_name": "Botswana",
+    "native_name": "Botswana",
+    "phone_code": "267",
+    "alpha_2": "bw"
+  },
+  {
+    "name": "\u5df4\u897f\u7684",
+    "en_name": "Brazil",
+    "native_name": "Brasil",
+    "phone_code": "55",
+    "alpha_2": "br"
+  },
+  {
+    "name": "\u82f1\u5c5e\u5370\u5ea6\u6d0b\u9886\u571f",
+    "en_name": "British Indian Ocean Territory",
+    "native_name": "British Indian Ocean Territory",
+    "phone_code": "246",
+    "alpha_2": "io"
+  },
+  {
+    "name": "\u82f1\u5c5e\u7ef4\u5c14\u4eac\u7fa4\u5c9b",
+    "en_name": "British Virgin Islands",
+    "native_name": "British Virgin Islands",
+    "phone_code": "1284",
+    "alpha_2": "vg"
+  },
+  {
+    "name": "\u6587\u83b1",
+    "en_name": "Brunei",
+    "native_name": "Negara Brunei Darussalam",
+    "phone_code": "673",
+    "alpha_2": "bn"
+  },
+  {
+    "name": "\u4fdd\u52a0\u5229\u4e9a",
+    "en_name": "Bulgaria",
+    "native_name": "\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "phone_code": "359",
+    "alpha_2": "bg"
+  },
+  {
+    "name": "\u5e03\u57fa\u7eb3\u6cd5\u7d22",
+    "en_name": "Burkina Faso",
+    "native_name": "Burkina Faso",
+    "phone_code": "226",
+    "alpha_2": "bf"
+  },
+  {
+    "name": "\u5e03\u9686\u8fea",
+    "en_name": "Burundi",
+    "native_name": "Burundi",
+    "phone_code": "257",
+    "alpha_2": "bi"
+  },
+  {
+    "name": "\u67ec\u57d4\u5be8",
+    "en_name": "Cambodia",
+    "native_name": "K\u00e2mp\u016dch\u00e9a",
+    "phone_code": "855",
+    "alpha_2": "kh"
+  },
+  {
+    "name": "\u5580\u9ea6\u9686",
+    "en_name": "Cameroon",
+    "native_name": "Cameroon",
+    "phone_code": "237",
+    "alpha_2": "cm"
+  },
+  {
+    "name": "\u52a0\u62ff\u5927",
+    "en_name": "Canada",
+    "native_name": "Canada",
+    "phone_code": "1",
+    "alpha_2": "ca"
+  },
+  {
+    "name": "\u4f5b\u5f97\u89d2",
+    "en_name": "Cape Verde",
+    "native_name": "Cabo Verde",
+    "phone_code": "238",
+    "alpha_2": "cv"
+  },
+  {
+    "name": "\u5f00\u66fc\u7fa4\u5c9b",
+    "en_name": "Cayman Islands",
+    "native_name": "Cayman Islands",
+    "phone_code": "1345",
+    "alpha_2": "ky"
+  },
+  {
+    "name": "\u4e2d\u975e\u5171\u548c\u56fd",
+    "en_name": "Central African Republic",
+    "native_name": "K\u00f6d\u00f6r\u00f6s\u00ease t\u00ee B\u00eaafr\u00eeka",
+    "phone_code": "236",
+    "alpha_2": "cf"
+  },
+  {
+    "name": "\u4e4d\u5f97",
+    "en_name": "Chad",
+    "native_name": "Tchad",
+    "phone_code": "235",
+    "alpha_2": "td"
+  },
+  {
+    "name": "\u667a\u5229",
+    "en_name": "Chile",
+    "native_name": "Chile",
+    "phone_code": "56",
+    "alpha_2": "cl"
+  },
+  {
+    "name": "\u4e2d\u56fd",
+    "en_name": "China",
+    "native_name": "\u4e2d\u56fd",
+    "phone_code": "86",
+    "alpha_2": "cn"
+  },
+  {
+    "name": "\u5723\u8bde\u5c9b",
+    "en_name": "Christmas Island",
+    "native_name": "Christmas Island",
+    "phone_code": "61",
+    "alpha_2": "cx"
+  },
+  {
+    "name": "\u79d1\u79d1\u65af\uff08\u57fa\u7075\uff09\u7fa4\u5c9b",
+    "en_name": "Cocos (Keeling) Islands",
+    "native_name": "Cocos (Keeling) Islands",
+    "phone_code": "61",
+    "alpha_2": "cc"
+  },
+  {
+    "name": "\u54e5\u4f26\u6bd4\u4e9a",
+    "en_name": "Colombia",
+    "native_name": "Colombia",
+    "phone_code": "57",
+    "alpha_2": "co"
+  },
+  {
+    "name": "\u79d1\u6469\u7f57",
+    "en_name": "Comoros",
+    "native_name": "Komori",
+    "phone_code": "269",
+    "alpha_2": "km"
+  },
+  {
+    "name": "\u521a\u679c\u5171\u548c\u56fd",
+    "en_name": "Republic of the Congo",
+    "native_name": "R\u00e9publique du Congo",
+    "phone_code": "242",
+    "alpha_2": "cg"
+  },
+  {
+    "name": "\u521a\u679c\u6c11\u4e3b\u5171\u548c\u56fd",
+    "en_name": "Democratic Republic of the Congo",
+    "native_name": "R\u00e9publique d\u00e9mocratique du Congo",
+    "phone_code": "243",
+    "alpha_2": "cd"
+  },
+  {
+    "name": "\u5e93\u514b\u7fa4\u5c9b",
+    "en_name": "Cook Islands",
+    "native_name": "Cook Islands",
+    "phone_code": "682",
+    "alpha_2": "ck"
+  },
+  {
+    "name": "\u54e5\u65af\u8fbe\u9ece\u52a0",
+    "en_name": "Costa Rica",
+    "native_name": "Costa Rica",
+    "phone_code": "506",
+    "alpha_2": "cr"
+  },
+  {
+    "name": "\u514b\u7f57\u5730\u4e9a",
+    "en_name": "Croatia",
+    "native_name": "Hrvatska",
+    "phone_code": "385",
+    "alpha_2": "hr"
+  },
+  {
+    "name": "\u53e4\u5df4",
+    "en_name": "Cuba",
+    "native_name": "Cuba",
+    "phone_code": "53",
+    "alpha_2": "cu"
+  },
+  {
+    "name": "\u5e93\u62c9\u7d22\u5c9b",
+    "en_name": "Cura\u00e7ao",
+    "native_name": "Cura\u00e7ao",
+    "phone_code": "5999",
+    "alpha_2": "cw"
+  },
+  {
+    "name": "\u585e\u6d66\u8def\u65af",
+    "en_name": "Cyprus",
+    "native_name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "phone_code": "357",
+    "alpha_2": "cy"
+  },
+  {
+    "name": "\u6377\u514b\u5171\u548c\u56fd",
+    "en_name": "Czech Republic",
+    "native_name": "\u010cesk\u00e1 republika",
+    "phone_code": "420",
+    "alpha_2": "cz"
+  },
+  {
+    "name": "\u4e39\u9ea6",
+    "en_name": "Denmark",
+    "native_name": "Danmark",
+    "phone_code": "45",
+    "alpha_2": "dk"
+  },
+  {
+    "name": "\u5409\u5e03\u63d0",
+    "en_name": "Djibouti",
+    "native_name": "Djibouti",
+    "phone_code": "253",
+    "alpha_2": "dj"
+  },
+  {
+    "name": "\u591a\u7c73\u5c3c\u514b",
+    "en_name": "Dominica",
+    "native_name": "Dominica",
+    "phone_code": "1767",
+    "alpha_2": "dm"
+  },
+  {
+    "name": "\u591a\u7c73\u5c3c\u52a0\u5171\u548c\u56fd",
+    "en_name": "Dominican Republic",
+    "native_name": "Rep\u00fablica Dominicana",
+    "phone_code": "1809",
+    "alpha_2": "do"
+  },
+  {
+    "name": "\u5384\u74dc\u591a\u5c14",
+    "en_name": "Ecuador",
+    "native_name": "Ecuador",
+    "phone_code": "593",
+    "alpha_2": "ec"
+  },
+  {
+    "name": "\u57c3\u53ca",
+    "en_name": "Egypt",
+    "native_name": "\u0645\u0635\u0631\u200e",
+    "phone_code": "20",
+    "alpha_2": "eg"
+  },
+  {
+    "name": "\u8428\u5c14\u74e6\u591a",
+    "en_name": "El Salvador",
+    "native_name": "El Salvador",
+    "phone_code": "503",
+    "alpha_2": "sv"
+  },
+  {
+    "name": "\u8d64\u9053\u51e0\u5185\u4e9a",
+    "en_name": "Equatorial Guinea",
+    "native_name": "Guinea Ecuatorial",
+    "phone_code": "240",
+    "alpha_2": "gq"
+  },
+  {
+    "name": "\u5384\u7acb\u7279\u91cc\u4e9a",
+    "en_name": "Eritrea",
+    "native_name": "\u12a4\u122d\u1275\u122b",
+    "phone_code": "291",
+    "alpha_2": "er"
+  },
+  {
+    "name": "\u7231\u6c99\u5c3c\u4e9a",
+    "en_name": "Estonia",
+    "native_name": "Eesti",
+    "phone_code": "372",
+    "alpha_2": "ee"
+  },
+  {
+    "name": "\u57c3\u585e\u4fc4\u6bd4\u4e9a",
+    "en_name": "Ethiopia",
+    "native_name": "\u12a2\u1275\u12ee\u1335\u12eb",
+    "phone_code": "251",
+    "alpha_2": "et"
+  },
+  {
+    "name": "\u798f\u514b\u5170\u7fa4\u5c9b",
+    "en_name": "Falkland Islands",
+    "native_name": "Falkland Islands",
+    "phone_code": "500",
+    "alpha_2": "fk"
+  },
+  {
+    "name": "\u6cd5\u7f57\u7fa4\u5c9b",
+    "en_name": "Faroe Islands",
+    "native_name": "F\u00f8royar",
+    "phone_code": "298",
+    "alpha_2": "fo"
+  },
+  {
+    "name": "\u6590\u6d4e",
+    "en_name": "Fiji",
+    "native_name": "Fiji",
+    "phone_code": "679",
+    "alpha_2": "fj"
+  },
+  {
+    "name": "\u82ac\u5170",
+    "en_name": "Finland",
+    "native_name": "Suomi",
+    "phone_code": "358",
+    "alpha_2": "fi"
+  },
+  {
+    "name": "\u6cd5\u56fd",
+    "en_name": "France",
+    "native_name": "France",
+    "phone_code": "33",
+    "alpha_2": "fr"
+  },
+  {
+    "name": "\u6cd5\u5c5e\u572d\u4e9a\u90a3",
+    "en_name": "French Guiana",
+    "native_name": "Guyane fran\u00e7aise",
+    "phone_code": "594",
+    "alpha_2": "gf"
+  },
+  {
+    "name": "\u6cd5\u5c5e\u6ce2\u5229\u5c3c\u897f\u4e9a",
+    "en_name": "French Polynesia",
+    "native_name": "Polyn\u00e9sie fran\u00e7aise",
+    "phone_code": "689",
+    "alpha_2": "pf"
+  },
+  {
+    "name": "\u6cd5\u56fd\u5357\u65b9\u548c\u5357\u6781\u7684\u571f\u5730",
+    "en_name": "French Southern and Antarctic Lands",
+    "native_name": "Territoire des Terres australes et antarctiques fran\u00e7aises",
+    "phone_code": "262",
+    "alpha_2": "tf"
+  },
+  {
+    "name": "\u52a0\u84ec",
+    "en_name": "Gabon",
+    "native_name": "Gabon",
+    "phone_code": "241",
+    "alpha_2": "ga"
+  },
+  {
+    "name": "\u5188\u6bd4\u4e9a",
+    "en_name": "The Gambia",
+    "native_name": "Gambia",
+    "phone_code": "220",
+    "alpha_2": "gm"
+  },
+  {
+    "name": "\u683c\u9c81\u5409\u4e9a",
+    "en_name": "Georgia",
+    "native_name": "\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
+    "phone_code": "995",
+    "alpha_2": "ge"
+  },
+  {
+    "name": "\u5fb7\u56fd",
+    "en_name": "Germany",
+    "native_name": "Deutschland",
+    "phone_code": "49",
+    "alpha_2": "de"
+  },
+  {
+    "name": "\u52a0\u7eb3",
+    "en_name": "Ghana",
+    "native_name": "Ghana",
+    "phone_code": "233",
+    "alpha_2": "gh"
+  },
+  {
+    "name": "\u76f4\u5e03\u7f57\u9640",
+    "en_name": "Gibraltar",
+    "native_name": "Gibraltar",
+    "phone_code": "350",
+    "alpha_2": "gi"
+  },
+  {
+    "name": "\u5e0c\u814a",
+    "en_name": "Greece",
+    "native_name": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "phone_code": "30",
+    "alpha_2": "gr"
+  },
+  {
+    "name": "\u683c\u9675\u5170",
+    "en_name": "Greenland",
+    "native_name": "Kalaallit Nunaat",
+    "phone_code": "299",
+    "alpha_2": "gl"
+  },
+  {
+    "name": "\u683c\u6797\u7eb3\u8fbe",
+    "en_name": "Grenada",
+    "native_name": "Grenada",
+    "phone_code": "1473",
+    "alpha_2": "gd"
+  },
+  {
+    "name": "\u74dc\u5fb7\u7f57\u666e\u5c9b",
+    "en_name": "Guadeloupe",
+    "native_name": "Guadeloupe",
+    "phone_code": "590",
+    "alpha_2": "gp"
+  },
+  {
+    "name": "\u5173\u5c9b",
+    "en_name": "Guam",
+    "native_name": "Guam",
+    "phone_code": "1671",
+    "alpha_2": "gu"
+  },
+  {
+    "name": "\u5371\u5730\u9a6c\u62c9",
+    "en_name": "Guatemala",
+    "native_name": "Guatemala",
+    "phone_code": "502",
+    "alpha_2": "gt"
+  },
+  {
+    "name": "\u683c\u6069\u897f\u5c9b",
+    "en_name": "Guernsey",
+    "native_name": "Guernsey",
+    "phone_code": "44",
+    "alpha_2": "gg"
+  },
+  {
+    "name": "\u51e0\u5185\u4e9a",
+    "en_name": "Guinea",
+    "native_name": "Guin\u00e9e",
+    "phone_code": "224",
+    "alpha_2": "gn"
+  },
+  {
+    "name": "\u51e0\u5185\u4e9a\u6bd4\u7ecd",
+    "en_name": "Guinea-Bissau",
+    "native_name": "Guin\u00e9-Bissau",
+    "phone_code": "245",
+    "alpha_2": "gw"
+  },
+  {
+    "name": "\u572d\u4e9a\u90a3",
+    "en_name": "Guyana",
+    "native_name": "Guyana",
+    "phone_code": "592",
+    "alpha_2": "gy"
+  },
+  {
+    "name": "\u6d77\u5730",
+    "en_name": "Haiti",
+    "native_name": "Ha\u00efti",
+    "phone_code": "509",
+    "alpha_2": "ht"
+  },
+  {
+    "name": "\u6d2a\u90fd\u62c9\u65af",
+    "en_name": "Honduras",
+    "native_name": "Honduras",
+    "phone_code": "504",
+    "alpha_2": "hn"
+  },
+  {
+    "name": "\u9999\u6e2f",
+    "en_name": "Hong Kong",
+    "native_name": "\u9999\u6e2f",
+    "phone_code": "852",
+    "alpha_2": "hk"
+  },
+  {
+    "name": "\u5308\u7259\u5229",
+    "en_name": "Hungary",
+    "native_name": "Magyarorsz\u00e1g",
+    "phone_code": "36",
+    "alpha_2": "hu"
+  },
+  {
+    "name": "\u51b0\u5c9b",
+    "en_name": "Iceland",
+    "native_name": "\u00cdsland",
+    "phone_code": "354",
+    "alpha_2": "is"
+  },
+  {
+    "name": "\u5370\u5ea6",
+    "en_name": "India",
+    "native_name": "\u092d\u093e\u0930\u0924",
+    "phone_code": "91",
+    "alpha_2": "in"
+  },
+  {
+    "name": "\u5370\u5ea6\u5c3c\u897f\u4e9a",
+    "en_name": "Indonesia",
+    "native_name": "Indonesia",
+    "phone_code": "62",
+    "alpha_2": "id"
+  },
+  {
+    "name": "\u8c61\u7259\u6d77\u5cb8",
+    "en_name": "Ivory Coast",
+    "native_name": "C\u00f4te d'Ivoire",
+    "phone_code": "225",
+    "alpha_2": "ci"
+  },
+  {
+    "name": "\u4f0a\u6717",
+    "en_name": "Iran",
+    "native_name": "Ir\u0101n",
+    "phone_code": "98",
+    "alpha_2": "ir"
+  },
+  {
+    "name": "\u4f0a\u62c9\u514b",
+    "en_name": "Iraq",
+    "native_name": "\u0627\u0644\u0639\u0631\u0627\u0642",
+    "phone_code": "964",
+    "alpha_2": "iq"
+  },
+  {
+    "name": "\u7231\u5c14\u5170\u5171\u548c\u56fd",
+    "en_name": "Republic of Ireland",
+    "native_name": "\u00c9ire",
+    "phone_code": "353",
+    "alpha_2": "ie"
+  },
+  {
+    "name": "\u9a6c\u6069\u5c9b",
+    "en_name": "Isle of Man",
+    "native_name": "Isle of Man",
+    "phone_code": "44",
+    "alpha_2": "im"
+  },
+  {
+    "name": "\u4ee5\u8272\u5217",
+    "en_name": "Israel",
+    "native_name": "\u05d9\u05b4\u05e9\u05b0\u05c2\u05e8\u05b8\u05d0\u05b5\u05dc",
+    "phone_code": "972",
+    "alpha_2": "il"
+  },
+  {
+    "name": "\u610f\u5927\u5229",
+    "en_name": "Italy",
+    "native_name": "Italia",
+    "phone_code": "39",
+    "alpha_2": "it"
+  },
+  {
+    "name": "\u7259\u4e70\u52a0",
+    "en_name": "Jamaica",
+    "native_name": "Jamaica",
+    "phone_code": "1876",
+    "alpha_2": "jm"
+  },
+  {
+    "name": "\u65e5\u672c",
+    "en_name": "Japan",
+    "native_name": "\u65e5\u672c",
+    "phone_code": "81",
+    "alpha_2": "jp"
+  },
+  {
+    "name": "\u7ea6\u65e6",
+    "en_name": "Jordan",
+    "native_name": "\u0627\u0644\u0623\u0631\u062f\u0646",
+    "phone_code": "962",
+    "alpha_2": "jo"
+  },
+  {
+    "name": "\u54c8\u8428\u514b\u65af\u5766",
+    "en_name": "Kazakhstan",
+    "native_name": "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
+    "phone_code": "76",
+    "alpha_2": "kz"
+  },
+  {
+    "name": "\u80af\u5c3c\u4e9a",
+    "en_name": "Kenya",
+    "native_name": "Kenya",
+    "phone_code": "254",
+    "alpha_2": "ke"
+  },
+  {
+    "name": "\u57fa\u91cc\u5df4\u65af",
+    "en_name": "Kiribati",
+    "native_name": "Kiribati",
+    "phone_code": "686",
+    "alpha_2": "ki"
+  },
+  {
+    "name": "\u79d1\u5a01\u7279",
+    "en_name": "Kuwait",
+    "native_name": "\u0627\u0644\u0643\u0648\u064a\u062a",
+    "phone_code": "965",
+    "alpha_2": "kw"
+  },
+  {
+    "name": "\u5409\u5c14\u5409\u65af\u65af\u5766",
+    "en_name": "Kyrgyzstan",
+    "native_name": "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d",
+    "phone_code": "996",
+    "alpha_2": "kg"
+  },
+  {
+    "name": "\u8001\u631d",
+    "en_name": "Laos",
+    "native_name": "\u0eaa\u0e9b\u0e9b\u0ea5\u0eb2\u0ea7",
+    "phone_code": "856",
+    "alpha_2": "la"
+  },
+  {
+    "name": "\u62c9\u8131\u7ef4\u4e9a",
+    "en_name": "Latvia",
+    "native_name": "Latvija",
+    "phone_code": "371",
+    "alpha_2": "lv"
+  },
+  {
+    "name": "\u9ece\u5df4\u5ae9",
+    "en_name": "Lebanon",
+    "native_name": "\u0644\u0628\u0646\u0627\u0646",
+    "phone_code": "961",
+    "alpha_2": "lb"
+  },
+  {
+    "name": "\u83b1\u7d22\u6258",
+    "en_name": "Lesotho",
+    "native_name": "Lesotho",
+    "phone_code": "266",
+    "alpha_2": "ls"
+  },
+  {
+    "name": "\u5229\u6bd4\u91cc\u4e9a",
+    "en_name": "Liberia",
+    "native_name": "Liberia",
+    "phone_code": "231",
+    "alpha_2": "lr"
+  },
+  {
+    "name": "\u5229\u6bd4\u4e9a",
+    "en_name": "Libya",
+    "native_name": "\u200f\u0644\u064a\u0628\u064a\u0627",
+    "phone_code": "218",
+    "alpha_2": "ly"
+  },
+  {
+    "name": "\u5217\u652f\u6566\u58eb\u767b",
+    "en_name": "Liechtenstein",
+    "native_name": "Liechtenstein",
+    "phone_code": "423",
+    "alpha_2": "li"
+  },
+  {
+    "name": "\u7acb\u9676\u5b9b",
+    "en_name": "Lithuania",
+    "native_name": "Lietuva",
+    "phone_code": "370",
+    "alpha_2": "lt"
+  },
+  {
+    "name": "\u5362\u68ee\u5821",
+    "en_name": "Luxembourg",
+    "native_name": "Luxembourg",
+    "phone_code": "352",
+    "alpha_2": "lu"
+  },
+  {
+    "name": "\u9a6c\u5176\u987f\u5171\u548c\u56fd",
+    "en_name": "Republic of Macedonia",
+    "native_name": "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
+    "phone_code": "389",
+    "alpha_2": "mk"
+  },
+  {
+    "name": "\u9a6c\u8fbe\u52a0\u65af\u52a0",
+    "en_name": "Madagascar",
+    "native_name": "Madagasikara",
+    "phone_code": "261",
+    "alpha_2": "mg"
+  },
+  {
+    "name": "\u9a6c\u62c9\u7ef4",
+    "en_name": "Malawi",
+    "native_name": "Malawi",
+    "phone_code": "265",
+    "alpha_2": "mw"
+  },
+  {
+    "name": "\u9a6c\u6765\u897f\u4e9a",
+    "en_name": "Malaysia",
+    "native_name": "Malaysia",
+    "phone_code": "60",
+    "alpha_2": "my"
+  },
+  {
+    "name": "\u9a6c\u5c14\u4ee3\u592b",
+    "en_name": "Maldives",
+    "native_name": "Maldives",
+    "phone_code": "960",
+    "alpha_2": "mv"
+  },
+  {
+    "name": "\u9a6c\u91cc",
+    "en_name": "Mali",
+    "native_name": "Mali",
+    "phone_code": "223",
+    "alpha_2": "ml"
+  },
+  {
+    "name": "\u9a6c\u8033\u4ed6",
+    "en_name": "Malta",
+    "native_name": "Malta",
+    "phone_code": "356",
+    "alpha_2": "mt"
+  },
+  {
+    "name": "\u9a6c\u7ecd\u5c14\u7fa4\u5c9b",
+    "en_name": "Marshall Islands",
+    "native_name": "M\u0327aje\u013c",
+    "phone_code": "692",
+    "alpha_2": "mh"
+  },
+  {
+    "name": "\u9a6c\u63d0\u5c3c\u514b\u5c9b",
+    "en_name": "Martinique",
+    "native_name": "Martinique",
+    "phone_code": "596",
+    "alpha_2": "mq"
+  },
+  {
+    "name": "\u6bdb\u91cc\u5854\u5c3c\u4e9a",
+    "en_name": "Mauritania",
+    "native_name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627",
+    "phone_code": "222",
+    "alpha_2": "mr"
+  },
+  {
+    "name": "\u6bdb\u91cc\u6c42\u65af",
+    "en_name": "Mauritius",
+    "native_name": "Maurice",
+    "phone_code": "230",
+    "alpha_2": "mu"
+  },
+  {
+    "name": "\u9a6c\u7ea6\u7279\u5c9b",
+    "en_name": "Mayotte",
+    "native_name": "Mayotte",
+    "phone_code": "262",
+    "alpha_2": "yt"
+  },
+  {
+    "name": "\u58a8\u897f\u54e5",
+    "en_name": "Mexico",
+    "native_name": "M\u00e9xico",
+    "phone_code": "52",
+    "alpha_2": "mx"
+  },
+  {
+    "name": "\u5bc6\u514b\u7f57\u5c3c\u897f\u4e9a\u8054\u90a6",
+    "en_name": "Federated States of Micronesia",
+    "native_name": "Micronesia",
+    "phone_code": "691",
+    "alpha_2": "fm"
+  },
+  {
+    "name": "\u6469\u5c14\u591a\u74e6",
+    "en_name": "Moldova",
+    "native_name": "Moldova",
+    "phone_code": "373",
+    "alpha_2": "md"
+  },
+  {
+    "name": "\u6469\u7eb3\u54e5",
+    "en_name": "Monaco",
+    "native_name": "Monaco",
+    "phone_code": "377",
+    "alpha_2": "mc"
+  },
+  {
+    "name": "\u8499\u53e4",
+    "en_name": "Mongolia",
+    "native_name": "\u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441",
+    "phone_code": "976",
+    "alpha_2": "mn"
+  },
+  {
+    "name": "\u9ed1\u5c71",
+    "en_name": "Montenegro",
+    "native_name": "\u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430",
+    "phone_code": "382",
+    "alpha_2": "me"
+  },
+  {
+    "name": "\u8499\u7279\u585e\u62c9\u7279",
+    "en_name": "Montserrat",
+    "native_name": "Montserrat",
+    "phone_code": "1664",
+    "alpha_2": "ms"
+  },
+  {
+    "name": "\u6469\u6d1b\u54e5",
+    "en_name": "Morocco",
+    "native_name": "\u0627\u0644\u0645\u063a\u0631\u0628",
+    "phone_code": "212",
+    "alpha_2": "ma"
+  },
+  {
+    "name": "\u83ab\u6851\u6bd4\u514b",
+    "en_name": "Mozambique",
+    "native_name": "Mo\u00e7ambique",
+    "phone_code": "258",
+    "alpha_2": "mz"
+  },
+  {
+    "name": "\u7f05\u7538",
+    "en_name": "Myanmar",
+    "native_name": "Myanma",
+    "phone_code": "95",
+    "alpha_2": "mm"
+  },
+  {
+    "name": "\u7eb3\u7c73\u6bd4\u4e9a",
+    "en_name": "Namibia",
+    "native_name": "Namibia",
+    "phone_code": "264",
+    "alpha_2": "na"
+  },
+  {
+    "name": "\u7459\u9c81",
+    "en_name": "Nauru",
+    "native_name": "Nauru",
+    "phone_code": "674",
+    "alpha_2": "nr"
+  },
+  {
+    "name": "\u5c3c\u6cca\u5c14",
+    "en_name": "Nepal",
+    "native_name": "\u0928\u092a\u0932",
+    "phone_code": "977",
+    "alpha_2": "np"
+  },
+  {
+    "name": "\u8377\u5170",
+    "en_name": "Netherlands",
+    "native_name": "Nederland",
+    "phone_code": "31",
+    "alpha_2": "nl"
+  },
+  {
+    "name": "\u65b0\u5580\u91cc\u591a\u5c3c\u4e9a",
+    "en_name": "New Caledonia",
+    "native_name": "Nouvelle-Cal\u00e9donie",
+    "phone_code": "687",
+    "alpha_2": "nc"
+  },
+  {
+    "name": "\u65b0\u897f\u5170",
+    "en_name": "New Zealand",
+    "native_name": "New Zealand",
+    "phone_code": "64",
+    "alpha_2": "nz"
+  },
+  {
+    "name": "\u5c3c\u52a0\u62c9\u74dc",
+    "en_name": "Nicaragua",
+    "native_name": "Nicaragua",
+    "phone_code": "505",
+    "alpha_2": "ni"
+  },
+  {
+    "name": "\u5c3c\u65e5\u5c14",
+    "en_name": "Niger",
+    "native_name": "Niger",
+    "phone_code": "227",
+    "alpha_2": "ne"
+  },
+  {
+    "name": "\u5c3c\u65e5\u5229\u4e9a",
+    "en_name": "Nigeria",
+    "native_name": "Nigeria",
+    "phone_code": "234",
+    "alpha_2": "ng"
+  },
+  {
+    "name": "\u7ebd\u57c3",
+    "en_name": "Niue",
+    "native_name": "Niu\u0113",
+    "phone_code": "683",
+    "alpha_2": "nu"
+  },
+  {
+    "name": "\u8bfa\u798f\u514b\u5c9b",
+    "en_name": "Norfolk Island",
+    "native_name": "Norfolk Island",
+    "phone_code": "672",
+    "alpha_2": "nf"
+  },
+  {
+    "name": "\u5317\u671d\u9c9c",
+    "en_name": "North Korea",
+    "native_name": "\ubd81\ud55c",
+    "phone_code": "850",
+    "alpha_2": "kp"
+  },
+  {
+    "name": "\u5317\u9a6c\u91cc\u4e9a\u7eb3\u7fa4\u5c9b",
+    "en_name": "Northern Mariana Islands",
+    "native_name": "Northern Mariana Islands",
+    "phone_code": "1670",
+    "alpha_2": "mp"
+  },
+  {
+    "name": "\u632a\u5a01",
+    "en_name": "Norway",
+    "native_name": "Norge",
+    "phone_code": "47",
+    "alpha_2": "no"
+  },
+  {
+    "name": "\u963f\u66fc",
+    "en_name": "Oman",
+    "native_name": "\u0639\u0645\u0627\u0646",
+    "phone_code": "968",
+    "alpha_2": "om"
+  },
+  {
+    "name": "\u5df4\u57fa\u65af\u5766",
+    "en_name": "Pakistan",
+    "native_name": "Pakistan",
+    "phone_code": "92",
+    "alpha_2": "pk"
+  },
+  {
+    "name": "\u5e15\u52b3",
+    "en_name": "Palau",
+    "native_name": "Palau",
+    "phone_code": "680",
+    "alpha_2": "pw"
+  },
+  {
+    "name": "\u5df4\u52d2\u65af\u5766",
+    "en_name": "Palestine",
+    "native_name": "\u0641\u0644\u0633\u0637\u064a\u0646",
+    "phone_code": "970",
+    "alpha_2": "ps"
+  },
+  {
+    "name": "\u5df4\u62ff\u9a6c",
+    "en_name": "Panama",
+    "native_name": "Panam\u00e1",
+    "phone_code": "507",
+    "alpha_2": "pa"
+  },
+  {
+    "name": "\u5df4\u5e03\u4e9a\u65b0\u51e0\u5185\u4e9a",
+    "en_name": "Papua New Guinea",
+    "native_name": "Papua Niugini",
+    "phone_code": "675",
+    "alpha_2": "pg"
+  },
+  {
+    "name": "\u5df4\u62c9\u572d",
+    "en_name": "Paraguay",
+    "native_name": "Paraguay",
+    "phone_code": "595",
+    "alpha_2": "py"
+  },
+  {
+    "name": "\u79d8\u9c81",
+    "en_name": "Peru",
+    "native_name": "Per\u00fa",
+    "phone_code": "51",
+    "alpha_2": "pe"
+  },
+  {
+    "name": "\u83f2\u5f8b\u5bbe",
+    "en_name": "Philippines",
+    "native_name": "Pilipinas",
+    "phone_code": "63",
+    "alpha_2": "ph"
+  },
+  {
+    "name": "\u76ae\u7279\u51ef\u6069\u7fa4\u5c9b",
+    "en_name": "Pitcairn Islands",
+    "native_name": "Pitcairn Islands",
+    "phone_code": "64",
+    "alpha_2": "pn"
+  },
+  {
+    "name": "\u6ce2\u5170",
+    "en_name": "Poland",
+    "native_name": "Polska",
+    "phone_code": "48",
+    "alpha_2": "pl"
+  },
+  {
+    "name": "\u8461\u8404\u7259",
+    "en_name": "Portugal",
+    "native_name": "Portugal",
+    "phone_code": "351",
+    "alpha_2": "pt"
+  },
+  {
+    "name": "\u6ce2\u591a\u9ece\u5404\u7684",
+    "en_name": "Puerto Rico",
+    "native_name": "Puerto Rico",
+    "phone_code": "1787",
+    "alpha_2": "pr"
+  },
+  {
+    "name": "\u5361\u5854\u5c14",
+    "en_name": "Qatar",
+    "native_name": "\u0642\u0637\u0631",
+    "phone_code": "974",
+    "alpha_2": "qa"
+  },
+  {
+    "name": "\u79d1\u7d22\u6c83\u5171\u548c\u56fd",
+    "en_name": "Republic of Kosovo",
+    "native_name": "Republika e Kosov\u00ebs",
+    "phone_code": "383",
+    "alpha_2": "xk"
+  },
+  {
+    "name": "\u7559\u5c3c\u6c6a",
+    "en_name": "R\u00e9union",
+    "native_name": "La R\u00e9union",
+    "phone_code": "262",
+    "alpha_2": "re"
+  },
+  {
+    "name": "\u7f57\u9a6c\u5c3c\u4e9a",
+    "en_name": "Romania",
+    "native_name": "Rom\u00e2nia",
+    "phone_code": "40",
+    "alpha_2": "ro"
+  },
+  {
+    "name": "\u4fc4\u7f57\u65af",
+    "en_name": "Russia",
+    "native_name": "\u0420\u043e\u0441\u0441\u0438\u044f",
+    "phone_code": "7",
+    "alpha_2": "ru"
+  },
+  {
+    "name": "\u5362\u65fa\u8fbe\u95ee\u9898",
+    "en_name": "Rwanda",
+    "native_name": "Rwanda",
+    "phone_code": "250",
+    "alpha_2": "rw"
+  },
+  {
+    "name": "Saint Barth\u00e9lemy",
+    "en_name": "Saint Barth\u00e9lemy",
+    "native_name": "Saint-Barth\u00e9lemy",
+    "phone_code": "590",
+    "alpha_2": "bl"
+  },
+  {
+    "name": "\u5723\u57fa\u8328\u548c\u5c3c\u7ef4\u65af",
+    "en_name": "Saint Kitts and Nevis",
+    "native_name": "Saint Kitts and Nevis",
+    "phone_code": "1869",
+    "alpha_2": "kn"
+  },
+  {
+    "name": "\u5723\u5362\u897f\u4e9a",
+    "en_name": "Saint Lucia",
+    "native_name": "Saint Lucia",
+    "phone_code": "1758",
+    "alpha_2": "lc"
+  },
+  {
+    "name": "\u5723\u9a6c\u4e01",
+    "en_name": "Saint Martin",
+    "native_name": "Saint-Martin",
+    "phone_code": "590",
+    "alpha_2": "mf"
+  },
+  {
+    "name": "\u5723\u76ae\u57c3\u5c14\u548c\u5bc6\u514b\u9686",
+    "en_name": "Saint Pierre and Miquelon",
+    "native_name": "Saint-Pierre-et-Miquelon",
+    "phone_code": "508",
+    "alpha_2": "pm"
+  },
+  {
+    "name": "\u5723\u6587\u68ee\u7279\u548c\u683c\u6797\u7eb3\u4e01\u65af",
+    "en_name": "Saint Vincent and the Grenadines",
+    "native_name": "Saint Vincent and the Grenadines",
+    "phone_code": "1784",
+    "alpha_2": "vc"
+  },
+  {
+    "name": "\u8428\u6469\u4e9a",
+    "en_name": "Samoa",
+    "native_name": "Samoa",
+    "phone_code": "685",
+    "alpha_2": "ws"
+  },
+  {
+    "name": "\u5723\u9a6c\u529b\u8bfa",
+    "en_name": "San Marino",
+    "native_name": "San Marino",
+    "phone_code": "378",
+    "alpha_2": "sm"
+  },
+  {
+    "name": "\u5723\u591a\u7f8e\u548c\u666e\u6797\u897f\u6bd4",
+    "en_name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "native_name": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
+    "phone_code": "239",
+    "alpha_2": "st"
+  },
+  {
+    "name": "\u6c99\u7279\u963f\u62c9\u4f2f",
+    "en_name": "Saudi Arabia",
+    "native_name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "phone_code": "966",
+    "alpha_2": "sa"
+  },
+  {
+    "name": "\u585e\u5185\u52a0\u5c14",
+    "en_name": "Senegal",
+    "native_name": "S\u00e9n\u00e9gal",
+    "phone_code": "221",
+    "alpha_2": "sn"
+  },
+  {
+    "name": "\u585e\u5c14\u7ef4\u4e9a",
+    "en_name": "Serbia",
+    "native_name": "\u0421\u0440\u0431\u0438\u0458\u0430",
+    "phone_code": "381",
+    "alpha_2": "rs"
+  },
+  {
+    "name": "\u585e\u820c\u5c14",
+    "en_name": "Seychelles",
+    "native_name": "Seychelles",
+    "phone_code": "248",
+    "alpha_2": "sc"
+  },
+  {
+    "name": "\u585e\u62c9\u5229\u6602",
+    "en_name": "Sierra Leone",
+    "native_name": "Sierra Leone",
+    "phone_code": "232",
+    "alpha_2": "sl"
+  },
+  {
+    "name": "\u65b0\u52a0\u5761",
+    "en_name": "Singapore",
+    "native_name": "Singapore",
+    "phone_code": "65",
+    "alpha_2": "sg"
+  },
+  {
+    "name": "\u5723\u9a6c\u4e01\u5c9b",
+    "en_name": "Sint Maarten",
+    "native_name": "Sint Maarten",
+    "phone_code": "1721",
+    "alpha_2": "sx"
+  },
+  {
+    "name": "\u65af\u6d1b\u4f10\u514b",
+    "en_name": "Slovakia",
+    "native_name": "Slovensko",
+    "phone_code": "421",
+    "alpha_2": "sk"
+  },
+  {
+    "name": "\u65af\u6d1b\u6587\u5c3c\u4e9a",
+    "en_name": "Slovenia",
+    "native_name": "Slovenija",
+    "phone_code": "386",
+    "alpha_2": "si"
+  },
+  {
+    "name": "\u6240\u7f57\u95e8\u7fa4\u5c9b",
+    "en_name": "Solomon Islands",
+    "native_name": "Solomon Islands",
+    "phone_code": "677",
+    "alpha_2": "sb"
+  },
+  {
+    "name": "\u7d22\u9a6c\u91cc\u7684",
+    "en_name": "Somalia",
+    "native_name": "Soomaaliya",
+    "phone_code": "252",
+    "alpha_2": "so"
+  },
+  {
+    "name": "\u5357\u975e",
+    "en_name": "South Africa",
+    "native_name": "South Africa",
+    "phone_code": "27",
+    "alpha_2": "za"
+  },
+  {
+    "name": "\u5357\u4e54\u6cbb\u4e9a",
+    "en_name": "South Georgia",
+    "native_name": "South Georgia",
+    "phone_code": "500",
+    "alpha_2": "gs"
+  },
+  {
+    "name": "\u5357\u97e9",
+    "en_name": "South Korea",
+    "native_name": "\ub300\ud55c\ubbfc\uad6d",
+    "phone_code": "82",
+    "alpha_2": "kr"
+  },
+  {
+    "name": "\u82cf\u4e39\u5357\u90e8",
+    "en_name": "South Sudan",
+    "native_name": "South Sudan",
+    "phone_code": "211",
+    "alpha_2": "ss"
+  },
+  {
+    "name": "\u897f\u73ed\u7259",
+    "en_name": "Spain",
+    "native_name": "Espa\u00f1a",
+    "phone_code": "34",
+    "alpha_2": "es"
+  },
+  {
+    "name": "\u65af\u91cc\u5170\u5361",
+    "en_name": "Sri Lanka",
+    "native_name": "\u015br\u012b la\u1e43k\u0101va",
+    "phone_code": "94",
+    "alpha_2": "lk"
+  },
+  {
+    "name": "\u82cf\u4e39",
+    "en_name": "Sudan",
+    "native_name": "\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+    "phone_code": "249",
+    "alpha_2": "sd"
+  },
+  {
+    "name": "\u82cf\u91cc\u5357",
+    "en_name": "Suriname",
+    "native_name": "Suriname",
+    "phone_code": "597",
+    "alpha_2": "sr"
+  },
+  {
+    "name": "\u65af\u74e6\u5c14\u5df4\u7279\u7fa4\u5c9b\u548c\u626c\u9a6c\u5ef6\u5c9b",
+    "en_name": "Svalbard and Jan Mayen",
+    "native_name": "Svalbard og Jan Mayen",
+    "phone_code": "4779",
+    "alpha_2": "sj"
+  },
+  {
+    "name": "\u65af\u5a01\u58eb\u5170",
+    "en_name": "Swaziland",
+    "native_name": "Swaziland",
+    "phone_code": "268",
+    "alpha_2": "sz"
+  },
+  {
+    "name": "\u745e\u5178",
+    "en_name": "Sweden",
+    "native_name": "Sverige",
+    "phone_code": "46",
+    "alpha_2": "se"
+  },
+  {
+    "name": "\u745e\u58eb",
+    "en_name": "Switzerland",
+    "native_name": "Schweiz",
+    "phone_code": "41",
+    "alpha_2": "ch"
+  },
+  {
+    "name": "\u53d9\u5229\u4e9a",
+    "en_name": "Syria",
+    "native_name": "\u0633\u0648\u0631\u064a\u0627",
+    "phone_code": "963",
+    "alpha_2": "sy"
+  },
+  {
+    "name": "\u53f0\u6e7e",
+    "en_name": "Taiwan",
+    "native_name": "\u81fa\u7063",
+    "phone_code": "886",
+    "alpha_2": "tw"
+  },
+  {
+    "name": "\u5854\u5409\u514b\u65af\u5766",
+    "en_name": "Tajikistan",
+    "native_name": "\u0422\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d",
+    "phone_code": "992",
+    "alpha_2": "tj"
+  },
+  {
+    "name": "\u5766\u6851\u5c3c\u4e9a",
+    "en_name": "Tanzania",
+    "native_name": "Tanzania",
+    "phone_code": "255",
+    "alpha_2": "tz"
+  },
+  {
+    "name": "\u6cf0\u56fd",
+    "en_name": "Thailand",
+    "native_name": "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "phone_code": "66",
+    "alpha_2": "th"
+  },
+  {
+    "name": "\u4e1c\u5e1d\u6c76\u7684",
+    "en_name": "East Timor",
+    "native_name": "Timor-Leste",
+    "phone_code": "670",
+    "alpha_2": "tl"
+  },
+  {
+    "name": "\u591a\u54e5",
+    "en_name": "Togo",
+    "native_name": "Togo",
+    "phone_code": "228",
+    "alpha_2": "tg"
+  },
+  {
+    "name": "\u6258\u514b\u52b3",
+    "en_name": "Tokelau",
+    "native_name": "Tokelau",
+    "phone_code": "690",
+    "alpha_2": "tk"
+  },
+  {
+    "name": "\u6c64\u52a0",
+    "en_name": "Tonga",
+    "native_name": "Tonga",
+    "phone_code": "676",
+    "alpha_2": "to"
+  },
+  {
+    "name": "\u7279\u7acb\u5c3c\u8fbe\u548c\u591a\u5df4\u54e5",
+    "en_name": "Trinidad and Tobago",
+    "native_name": "Trinidad and Tobago",
+    "phone_code": "1868",
+    "alpha_2": "tt"
+  },
+  {
+    "name": "\u7a81\u5c3c\u65af",
+    "en_name": "Tunisia",
+    "native_name": "\u062a\u0648\u0646\u0633",
+    "phone_code": "216",
+    "alpha_2": "tn"
+  },
+  {
+    "name": "\u571f\u8033\u5176",
+    "en_name": "Turkey",
+    "native_name": "T\u00fcrkiye",
+    "phone_code": "90",
+    "alpha_2": "tr"
+  },
+  {
+    "name": "\u571f\u5e93\u66fc\u65af\u5766",
+    "en_name": "Turkmenistan",
+    "native_name": "T\u00fcrkmenistan",
+    "phone_code": "993",
+    "alpha_2": "tm"
+  },
+  {
+    "name": "\u7279\u514b\u65af\u548c\u51ef\u79d1\u65af\u7fa4\u5c9b",
+    "en_name": "Turks and Caicos Islands",
+    "native_name": "Turks and Caicos Islands",
+    "phone_code": "1649",
+    "alpha_2": "tc"
+  },
+  {
+    "name": "\u56fe\u74e6\u5362",
+    "en_name": "Tuvalu",
+    "native_name": "Tuvalu",
+    "phone_code": "688",
+    "alpha_2": "tv"
+  },
+  {
+    "name": "\u4e4c\u5e72\u8fbe",
+    "en_name": "Uganda",
+    "native_name": "Uganda",
+    "phone_code": "256",
+    "alpha_2": "ug"
+  },
+  {
+    "name": "\u4e4c\u514b\u5170",
+    "en_name": "Ukraine",
+    "native_name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "phone_code": "380",
+    "alpha_2": "ua"
+  },
+  {
+    "name": "\u963f\u62c9\u4f2f\u8054\u5408\u914b\u957f\u56fd",
+    "en_name": "United Arab Emirates",
+    "native_name": "\u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+    "phone_code": "971",
+    "alpha_2": "ae"
+  },
+  {
+    "name": "\u8054\u5408\u738b\u56fd",
+    "en_name": "United Kingdom",
+    "native_name": "United Kingdom",
+    "phone_code": "44",
+    "alpha_2": "gb"
+  },
+  {
+    "name": "\u7f8e\u56fd\u7684",
+    "en_name": "United States",
+    "native_name": "United States",
+    "phone_code": "1",
+    "alpha_2": "us"
+  },
+  {
+    "name": "\u4e4c\u62c9\u572d",
+    "en_name": "Uruguay",
+    "native_name": "Uruguay",
+    "phone_code": "598",
+    "alpha_2": "uy"
+  },
+  {
+    "name": "\u4e4c\u5179\u522b\u514b\u65af\u5766",
+    "en_name": "Uzbekistan",
+    "native_name": "O\u2018zbekiston",
+    "phone_code": "998",
+    "alpha_2": "uz"
+  },
+  {
+    "name": "\u74e6\u52aa\u963f\u56fe",
+    "en_name": "Vanuatu",
+    "native_name": "Vanuatu",
+    "phone_code": "678",
+    "alpha_2": "vu"
+  },
+  {
+    "name": "\u59d4\u5185\u745e\u62c9",
+    "en_name": "Venezuela",
+    "native_name": "Venezuela",
+    "phone_code": "58",
+    "alpha_2": "ve"
+  },
+  {
+    "name": "\u8d8a\u5357",
+    "en_name": "Vietnam",
+    "native_name": "Vi\u1ec7t Nam",
+    "phone_code": "84",
+    "alpha_2": "vn"
+  },
+  {
+    "name": "\u74e6\u5229\u65af\u7fa4\u5c9b\u548c\u5bcc\u56fe\u7eb3\u7fa4\u5c9b",
+    "en_name": "Wallis and Futuna",
+    "native_name": "Wallis et Futuna",
+    "phone_code": "681",
+    "alpha_2": "wf"
+  },
+  {
+    "name": "\u897f\u6492\u54c8\u62c9\u7684",
+    "en_name": "Western Sahara",
+    "native_name": "\u0627\u0644\u0635\u062d\u0631\u0627\u0621 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
+    "phone_code": "212",
+    "alpha_2": "eh"
+  },
+  {
+    "name": "\u4e5f\u95e8",
+    "en_name": "Yemen",
+    "native_name": "\u0627\u0644\u064a\u064e\u0645\u064e\u0646",
+    "phone_code": "967",
+    "alpha_2": "ye"
+  },
+  {
+    "name": "\u8d5e\u6bd4\u4e9a",
+    "en_name": "Zambia",
+    "native_name": "Zambia",
+    "phone_code": "260",
+    "alpha_2": "zm"
+  },
+  {
+    "name": "\u6d25\u5df4\u5e03\u97e6",
+    "en_name": "Zimbabwe",
+    "native_name": "Zimbabwe",
+    "phone_code": "263",
+    "alpha_2": "zw"
+  }
+]

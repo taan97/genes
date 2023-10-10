@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn-active-orange {
+    @apply bg-gradient-orange shadow-outer-orange-v-1;
+  }
+
+  .btn-active-red {
+    @apply bg-gradient-red shadow-outer-red-v-1;
+  }
+
+  .btn-active-blue {
+    @apply bg-gradient-blue shadow-outer-blue-v-1;
+  }
+
+  .btn-active-green {
+    @apply bg-gradient-green shadow-outer-green-v-1;
+  }
+
+  .btn-inactive {
+    @apply bg-gradient-dark shadow-outer-dark-v-2 text-grey-v-1 pointer-events-none;
+  }
+}

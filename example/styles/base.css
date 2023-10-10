@@ -1,0 +1,75 @@
+:root {
+  --root-black-v-0: #181c2c;
+  --root-black-v-1: #1d2334;
+  --root-black-v-2: #2c3548;
+  --root-black-v-3: #505f84;
+  --root-black-v-4: #4d5774;
+  --root-black-v-5: #293043;
+  --root-black-v-6: rgba(77, 87, 116, 0.5);
+  --root-black-v-7: #2f394f;
+  --root-black-v-8: #56678e;
+
+  --root-grey-v-1: #808ca6;
+  --root-grey-v-2: #9ea7bb;
+  --root-grey-v-3: #707b87;
+  --root-grey-v-4: #323b54;
+
+  --root-white-v-1: #ffffff;
+  --root-white-v-2: rgba(255, 255, 255, 0.5);
+  --root-white-v-3: rgba(255, 255, 255, 0.9);
+
+  --root-orange-v-1: #e4b710;
+
+  --root-red-v-1: #c5080c;
+  --root-red-v-2: #ff0000;
+
+  --root-green-v-1: #82a22d;
+  --root-green-v-2: #00f862;
+  --root-green-v-3: #01b184;
+
+  --root-yellow-v-1: #deb311;
+  --root-yellow-v-2: #e4b711;
+  --root-gradient-dark: linear-gradient(180deg, #3e4964 0%, #1d2334 100%);
+  --root-gradient-orange: linear-gradient(180deg, #e0d350 0%, #cf7838 100%);
+
+  --root-size-base: 14px;
+  --root-size-v-1: 11px;
+  --root-size-v-2: 13px;
+  --root-size-v-3: 16px;
+  --root-size-v-4: 18px;
+  --root-size-v-5: 20px;
+  --root-size-v-6: 22px;
+  --root-size-v-7: 24px;
+  --root-size-v-8: 29px;
+  --root-size-v-9: 37px;
+
+  --root-max-width: 640px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  position: relative;
+  font-weight: normal;
+  touch-action: manipulation;
+}
+
+html {
+  font-size: 12px;
+  line-height: 1.333;
+  background-color: var(--root-white-v-1);
+}
+
+body {
+  font-size: var(--root-size-base);
+  min-height: 100vh;
+  max-width: var(--root-max-width);
+  margin: 0 auto !important;
+  color: var(--root-white-v-1);
+  background-color: var(--root-black-v-2);
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}

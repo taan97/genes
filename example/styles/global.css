@@ -1,0 +1,64 @@
+/* start style auto invest selector modal */
+.auto-invest-selector-modal .van-steps {
+  background-color: var(--root-black-v-2);
+  margin: 0 auto;
+  width: 18rem;
+  overflow: visible;
+}
+.auto-invest-selector-modal .van-step--horizontal .van-step__circle-container {
+  background-color: var(--root-black-v-2);
+  position: relative;
+}
+.auto-invest-selector-modal .van-icon-quadrilateral {
+  border: 7px solid transparent;
+  border-bottom-color: var(--root-grey-v-3);
+  position: absolute;
+  top: -32px;
+  left: 4px;
+}
+.auto-invest-selector-modal .van-icon-quadrilateral:before {
+  content: '';
+  position: absolute;
+  left: -7px;
+  top: 6px;
+  border: 7px solid transparent;
+  border-top-color: var(--root-grey-v-3);
+}
+.auto-invest-selector-modal .van-step--finish .van-icon-diamond {
+  border: 5px solid transparent;
+  border-bottom-color: var(--root-grey-v-3);
+  position: absolute;
+  top: -28px;
+  left: 6px;
+}
+.auto-invest-selector-modal .van-step--finish .van-icon-diamond:before {
+  content: '';
+  position: absolute;
+  left: -5px;
+  top: 5px;
+  border: 5px solid transparent;
+  border-top-color: var(--root-grey-v-3);
+}
+.auto-invest-selector-modal .van-step--waiting .van-icon-diamond:before {
+  content: url('@/assets/icons/diamond.svg');
+  width: 11px;
+  height: 11px;
+  position: absolute;
+  left: -2px;
+  top: -24px;
+}
+.auto-invest-selector-modal .van-step--horizontal .van-step__line {
+  width: 70%;
+  left: 11px;
+}
+/* end style auto invest selector modal */
+
+/* override input auto-fill style from user agent: start */
+/* :-webkit-autofill,
+:-webkit-autofill:hover,
+:-webkit-autofill:focus {
+  -webkit-text-fill-color: #fff;
+  caret-color: #fff;
+  transition: background-color 9999s ease-in-out 0s;
+} */
+/* override input auto-fill style from user agent: end */

@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .border-gradient-1 {
+    --bg-color: var(--root-black-1);
+
+    border: 1px solid transparent;
+    background: linear-gradient(
+        to right,
+        var(--bg-color) 0%,
+        var(--bg-color) 100%
+      ),
+      linear-gradient(to right, var(--bg-color) 0%, #fff 100%);
+    background-clip: padding-box, border-box;
+    background-origin: padding-box, border-box;
+  }
+
+  .border-gradient-dark-1 {
+    --bg-color: var(--root-white-1);
+
+    border: 1px solid transparent;
+    background: linear-gradient(
+        to right,
+        var(--bg-color) 0%,
+        var(--bg-color) 100%
+      ),
+      linear-gradient(to right, var(--bg-color) 0%, #000 100%);
+    background-clip: padding-box, border-box;
+    background-origin: padding-box, border-box;
+  }
+}
